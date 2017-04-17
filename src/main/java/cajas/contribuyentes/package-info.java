@@ -4,7 +4,7 @@
 
 
 /**
- * @author santiago
+ * @author Santiago Gonzalez
  *
  */
 package cajas.contribuyentes;
